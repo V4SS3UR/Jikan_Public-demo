@@ -20,6 +20,23 @@
   - **Drag and Drop Support:** [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
   - **Tutorial Overlay:** [GuideLine.WPF](https://github.com/V4SS3UR/GuideLine.WPF)
   - **Toast Notifications:** [ToastManager.WPF](https://github.com/V4SS3UR/ToastManager.WPF)
+ 
+## Permissions
+
+  In **Jikan**, managers have enhanced permissions to oversee the time-tracking data of employees who report to them within the organization's flowchart. Through this feature, managers can:    
+  - **View Team Data:** Access detailed reports and insights on the work hours logged by their direct reports, allowing for effective monitoring of resource allocation and productivity.      
+  - **Log Hours on Behalf of Employees:** If an employee is unavailable to log their own hours, the manager can log the hours on their behalf, ensuring that the team's time-tracking data remains accurate and up-to-date.
+  This feature enables managers to maintain oversight of their team’s performance and ensure that all logged hours are correctly recorded.
+
+## Data Visibility
+
+  In **Jikan**, data can be displayed as either the total number of hours worked or as a percentage, providing flexibility in how work is reported. This allows for ethical handling of sensitive information by:
+  Here's the paragraph with additional formatting for better readability:
+  - **Showing Data as Percentages:** When it’s possible to easily compare the workloads of multiple individuals, the visibility of exact hours is **restricted** to protect employee privacy and prevent unfair comparisons. 
+  - **Data as Percentages:** Instead of showing hours, data can be displayed as percentages. This helps maintain confidentiality while still providing insights into overall work distribution.     
+  - **Full Data Access:** When workload comparisons are not a concern, all data—including exact hours worked—becomes fully accessible for **in-depth analysis**. 
+  This approach ensures ethical data management while still enabling comprehensive resource tracking and analysis.
+
 
 ## Overview
 
