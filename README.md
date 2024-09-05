@@ -121,3 +121,12 @@ All the controls, themes, and styles in **Jikan** are entirely handcrafted, ensu
    - **Server Connection Management:** 
      Set up and manage connections to SQL Server.
      ![Settings_Server](https://github.com/user-attachments/assets/75451888-e207-414d-b40f-889dbc12e2d0)
+
+
+## Conclusion
+
+Thank you for exploring **Jikan** time-tracking tool designed to streamline project management and resource tracking. As this is a demo project, I welcome your feedback and suggestions on how I can enhance the tool further.
+
+If you have any inquiries, feedback, or just want to share your thoughts, please feel free to contact me.
+
+I hope you find **Jikan** useful and look forward to any comments you might have. Stay tuned for future updates!
