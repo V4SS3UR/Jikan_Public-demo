@@ -37,8 +37,12 @@
   - **Full Data Access:** When workload comparisons are not a concern, all data—including exact hours worked—becomes fully accessible for **in-depth analysis**. 
   This approach ensures ethical data management while still enabling comprehensive resource tracking and analysis.
 
+## Authentication Method
 
-## Overview
+  The current authentication method in **Jikan** is based on retrieving the user's **Windows session email** and **full name**. This approach aligns with my current company's requirements, allowing seamless access without the need for traditional login credentials. By utilizing the user's session information, Jikan ensures a secure and streamlined authentication process.
+
+
+# Overview
 
 ### 1. Register
    Users can quickly register to start tracking their time.
