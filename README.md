@@ -2,6 +2,8 @@
 
 **Jikan** is a powerful time-tracking tool built with C# and WPF (Windows Presentation Foundation). It helps organizations efficiently log and analyze work hours across projects using pre-defined views, customizable graphical reports, and flexible data management options. Jikan supports both SQLite and SQL Server for data storage, making it adaptable to various deployment scenarios.
 
+All the controls, themes, and styles in Jikan are entirely handcrafted, ensuring a unique and customized user experience tailored specifically to the application's needs.
+
 ## Features
 
 - **Time Tracking:** Log work hours per project to efficiently track resource usage across the organization.
@@ -21,14 +23,21 @@
   - **Tutorial Overlay:** [GuideLine.WPF](https://github.com/V4SS3UR/GuideLine.WPF)
   - **Toast Notifications:** [ToastManager.WPF](https://github.com/V4SS3UR/ToastManager.WPF)
  
-## Permissions
+## UI/UX Design
+
+All the controls, themes, and styles in **Jikan** are entirely handcrafted, ensuring a unique and customized user experience. This allows for a cohesive design that is fully tailored to the application's specific functionality and aesthetic.
+
+
+## Access and Security
+
+### Permissions
 
   In **Jikan**, managers have enhanced permissions to oversee the time-tracking data of employees who report to them within the organization's flowchart. Through this feature, managers can:    
   - **View Team Data:** Access detailed reports and insights on the work hours logged by their direct reports, allowing for effective monitoring of resource allocation and productivity.      
   - **Log Hours on Behalf of Employees:** If an employee is unavailable to log their own hours, the manager can log the hours on their behalf, ensuring that the team's time-tracking data remains accurate and up-to-date.
   This feature enables managers to maintain oversight of their team’s performance and ensure that all logged hours are correctly recorded.
 
-## Data Visibility
+### Data Visibility
 
   In **Jikan**, data can be displayed as either the total number of hours worked or as a percentage, providing flexibility in how work is reported. This allows for ethical handling of sensitive information by:
   Here's the paragraph with additional formatting for better readability:
@@ -37,12 +46,12 @@
   - **Full Data Access:** When workload comparisons are not a concern, all data—including exact hours worked—becomes fully accessible for **in-depth analysis**. 
   This approach ensures ethical data management while still enabling comprehensive resource tracking and analysis.
 
-## Authentication Method
+### Authentication Method
 
   The current authentication method in **Jikan** is based on retrieving the user's **Windows session email** and **full name**. This approach aligns with my current company's requirements, allowing seamless access without the need for traditional login credentials. By utilizing the user's session information, Jikan ensures a secure and streamlined authentication process.
 
 
-# Overview
+## Overview
 
 ### 1. Register
    Users can quickly register to start tracking their time.
